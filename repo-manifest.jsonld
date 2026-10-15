@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/piccolo-orm/piccolo_api/commit/e1bee6cdda5435854fad7387cd4f571128b766e2",
       "git:hexsha": "e1bee6cdda5435854fad7387cd4f571128b766e2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.11.0"
     },
     {
